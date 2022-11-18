@@ -8,10 +8,12 @@
 Life insurance premium may differ according to individual characteristics. AI can help calculate individual costs, given the client characteristics. In this project, we worked with a dataset that included features like age, gender, smoke option, body mass index (BMI), region, and so on. With a low code package called PyCaret, it was possible to train a model to predict insurance premium with just a few lines of code. Anyway, we also provided extensive chart analysis in order to understand the correlation between these variables and the insurance premium. 
 
 
+
 [Complete Project Here](https://github.com/rita-milani/Life_Insurance_PyCaret/commit/f91b4f9d0b5c6741a3847825e422f52e4c9d7321)
+
 
 **Related links and articles:**
 * [LinkedIn](https://www.linkedin.com/in/rita-de-cassia-m-59ab7451/)
 * [Portfolio](https://github.com/rita-milani)
-* [LinkedIn Credit Card Fraud Detection](https://www.linkedin.com/pulse/credit-card-fraud-detection-rita-de-cassia-milani/?trackingId=qJ0KPz%2F7RGBLIE4YvDdk6g%3D%3D)
+* [Medium: Can AI predict your life insurance premium?](https://medium.com/@rita.milani/can-ai-predict-your-life-insurance-premium-a-pycaret-application-21897f6f0af7)
 * [Understanding: Box Plot, a Statistical Portrait](https://medium.com/@rita.milani/understanding-box-plot-a-statistical-portrait-2181fdf01842)
