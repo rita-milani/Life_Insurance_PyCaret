@@ -7,6 +7,7 @@
 ## How much will your Life Insurance Premium cost?
 Life insurance premium may differ according to individual characteristics. AI can help calculate individual costs, given the client characteristics. In this project, we worked with a dataset that included features like age, gender, smoke option, body mass index (BMI), region, and so on. With a low code package called PyCaret, it was possible to train a model to predict insurance premium with just a few lines of code. Anyway, we also provided extensive chart analysis in order to understand the correlation between these variables and the insurance premium. 
 
+
 [Complete Project Here](https://github.com/rita-milani/Life_Insurance_PyCaret/commit/f91b4f9d0b5c6741a3847825e422f52e4c9d7321)
 
 **Related links and articles:**
